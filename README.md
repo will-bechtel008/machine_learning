@@ -1,2 +1,3 @@
-# machine_learning
-CAP 4630
+# CAP 4630 - Artificial Intelligence
+
+Machine Learning Repo
